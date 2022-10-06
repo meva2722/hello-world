@@ -11,11 +11,7 @@ print("Hello, World!")
 
 
 print("Hello Marcus J. Evans")
-print("Hello Marcus J. Evans")
-print("Hello Marcus J. Evans")
-print("Hello Marcus J. Evans")
-print("Hello Marcus J. Evans")
-print("Hello Marcus J. Evans")
 
+print("Hello David Salas Jr.")
 
 
